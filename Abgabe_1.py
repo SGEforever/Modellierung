@@ -1,0 +1,1 @@
+print("Erste Abgabe")
